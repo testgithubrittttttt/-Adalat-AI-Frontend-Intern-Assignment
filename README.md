@@ -97,6 +97,7 @@ To deploy the project:
 - npm run build
 
 Host the build/ folder on platforms like Vercel and Netlify
+project link = https://adalat-ai-frontend-intern-assignment-ay7f.vercel.app/
 
 ## 🛠️ Technologies Used
 
