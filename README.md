@@ -91,6 +91,8 @@ npm run build
 
 ## 🎨 Screenshots
 
+![Project Screenshot](https://github.com/testgithubrittttttt/-Adalat-AI-Frontend-Intern-Assignment/blob/main/Screenshot .png "Project Screenshot")
+
 ## 🤝 Contributing
 
 Feel free to fork the project, make improvements, and create pull requests.
