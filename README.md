@@ -1,0 +1,1 @@
+# -Adalat-AI-Frontend-Intern-Assignment
