@@ -91,7 +91,7 @@ npm run build
 
 ## 🎨 Screenshots
 
-![Project Screenshot](https://github.com/testgithubrittttttt/-Adalat-AI-Frontend-Intern-Assignment/blob/main/Screenshot .png "Project Screenshot")
+![Dynamic Table Screenshot](Screenshot.png)
 
 ## 🤝 Contributing
 
