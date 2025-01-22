@@ -1,98 +1,70 @@
-# Dynamic Table Project
+# Getting Started with Create React App
 
-Welcome to the Dynamic Table Project, designed to showcase a fully functional, interactive, and visually engaging table application. This project fulfills all requirements of the assignment while focusing on enhancing user experience through clean UI/UX and efficient functionality.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 📝 Solution Overview - 
+## Available Scripts
 
-The project implements a dynamic and responsive table with the following features:
+In the project directory, you can run:
 
-- Sorting: Users can sort data by clicking on column headers.
+### `npm start`
 
-- Filtering: A search bar allows users to filter rows across all columns.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- Pagination: Data is displayed in pages, with controls to navigate between pages.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Resizable Columns: Users can adjust column widths dynamically by dragging column edges.
+### `npm test`
 
-- CSV Export: A button enables users to download the table data in CSV format.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- Clean and Modern UI: Styled using TailwindCSS with a dark theme, hover effects, and animations.
+### `npm run build`
 
-- Responsive Design: The layout adjusts gracefully for different screen sizes.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 🔧 Setup and Run Locally - 
-Follow these steps to set up and run the project locally:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Prerequisites
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Node.js: Ensure Node.js is installed. Download Node.js
+### `npm run eject`
 
-- npm or yarn: Comes bundled with Node.js for managing dependencies.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## 📂 Project Structure
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-📦 dynamic-table
-├── 📁 src
-│   ├── 📄 App.js            # Main application component
-│   ├── 📄 DynamicTable.js   # Table component with all functionalities
-│   ├── 📄 index.js          # Entry point for the React app
-│   └── 📄 styles.css        # TailwindCSS configuration
-├── 📄 package.json          # Project dependencies and scripts
-└── 📄 README.md             # Project documentation
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## ✨ Key Features
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Sorting:
+## Learn More
 
-Click on column headers to toggle ascending/descending order.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Sorting is indicated with arrows (↑/↓).
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Filtering:
+### Code Splitting
 
-Enter text in the search bar to filter rows by matching content in any column.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Pagination:
+### Analyzing the Bundle Size
 
-View data in pages with Previous and Next navigation buttons.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Resizable Columns:
+### Making a Progressive Web App
 
-Drag column edges to resize them dynamically.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### CSV Export:
+### Advanced Configuration
 
-Download current table data in CSV format with a single click.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Modern Design:
+### Deployment
 
-Styled with TailwindCSS for clean visuals and animations.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-Fully responsive for desktop, tablet, and mobile screens.
+### `npm run build` fails to minify
 
-## 🚀 Deployment
-
-To deploy the project:
- 
-- Build the project:
-npm run build
-
-- Host the build/ folder on platforms like Vercel, Netlify, or any static hosting service.
-
-## 🛠️ Technologies Used
-
-- React.js: Frontend framework.
-
-- TailwindCSS: For styling.
-
-- CSVLink: For exporting table data.
-
-- JavaScript: Core logic implementation.
-
-## 🎨 Screenshots
-
-![Dynamic Table Screenshot](Screenshot.png)
-
-## 🤝 Contributing
-
-Feel free to fork the project, make improvements, and create pull requests.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
